@@ -1,2 +1,2 @@
 # Data-Analysis-Portfolio-
-This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+Welcome to my Data Analytics and Data Science repository. This is a collection of projects, code, and resources that demonstrate my skills and progress in the field. 
