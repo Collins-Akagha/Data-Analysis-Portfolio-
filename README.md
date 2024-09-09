@@ -20,6 +20,6 @@ Welcome to my Data Analytics and Data Science repository. This is a collection o
 # PORTFOLIO PROJECTS
 **SQL**
 
-  •
+  • [Optimizing Online Sports Retail Revenue] (Optimizing Online Sports Retail Revenue Project.sql)
 
  
