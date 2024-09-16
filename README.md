@@ -40,6 +40,10 @@ Welcome to my Data Analytics and Data Science repository. This is a collection o
   
   • [Credit Card Stock Price Analysis](https://github.com/user-attachments/files/17007864/Credit.Card.Stock.Price.Analysis.xlsx)
 
+  • [Bike Sales Analysis](https://github.com/user-attachments/files/17007879/Excel.Portfolio.Project.xlsx)
+
+  •[Check out other projects!]
+
 
 
  
