@@ -14,6 +14,11 @@ Welcome to my Data Analytics and Data Science repository. This is a collection o
 4. Tableau
 
 5. Microsoft Power BI
+   
+6. Certificates and Licences
+   
+7. Contact Me!
+   
 
 
 
@@ -29,7 +34,12 @@ Welcome to my Data Analytics and Data Science repository. This is a collection o
   • [Covid Data Exploration Project](https://github.com/Collins-Akagha/Technical-Projects/blob/28357bfab10e381c3f3baa24abbf11d34d3f67ff/SQL%20Covid%20Data%20Exploration%20Project.sql)
 
 2. **Microsoft Excel**
-  •
+
+  •[OCD Patients Analysis](https://github.com/user-attachments/files/17007859/OCD.ANALYSIS.PROJECT.xlsx)
+
+  
+  • [Credit Card Stock Price Analysis](https://github.com/user-attachments/files/17007864/Credit.Card.Stock.Price.Analysis.xlsx)
+
 
 
  
