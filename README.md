@@ -33,6 +33,8 @@ Welcome to my Data Analytics and Data Science repository. This is a collection o
 	
   • [Covid Data Exploration Project](https://github.com/Collins-Akagha/Technical-Projects/blob/28357bfab10e381c3f3baa24abbf11d34d3f67ff/SQL%20Covid%20Data%20Exploration%20Project.sql)
 
+In this project, I explored and cleaned over 100,000 rows of data using varoius window and aggregate SQL functions to standardize the dataset for further analyses and visualizations. 
+
 2. **Microsoft Excel**
 
   •[OCD Patients Analysis](https://github.com/user-attachments/files/17007859/OCD.ANALYSIS.PROJECT.xlsx)
@@ -42,7 +44,8 @@ Welcome to my Data Analytics and Data Science repository. This is a collection o
 
   • [Bike Sales Analysis](https://github.com/user-attachments/files/17007879/Excel.Portfolio.Project.xlsx)
 
-  • [Data Professional Survey Analysis](https://github.com/Collins-Akagha/Technical-Projects/blob/826f3a05d869c9374e673919cf597711a527bbb8/Data%20Survey%20Analysis.xlsx)
+  • [Data Professional Survey Analysis](https://github.com/Collins-Akagha/Technical-Projects/blob/826f3a05d869c9374e673919cf597711a527bbb8/Data%20Survey%20Analysis.xlsx) 
+  In this project, I utilized excel power query for data cleaning and transformation and implemented pivot tables and charts for professional reporting. 
 
   [Check out other projects!](https://github.com/Collins-Akagha/Technical-Projects/releases/tag/Excel)
 
