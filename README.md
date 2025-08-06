@@ -42,6 +42,9 @@ Welcome to my Data Analytics and Data Science repository. This is a collection o
 
   • [Bike Sales Analysis](https://github.com/user-attachments/files/17007879/Excel.Portfolio.Project.xlsx)
 
+  • [Data Professional Survey Analysis](
+  )
+
   [Check out other projects!](https://github.com/Collins-Akagha/Technical-Projects/releases/tag/Excel)
 
 
