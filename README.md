@@ -2,7 +2,7 @@
 Welcome to my Data Analytics and Data Science repository. This is a collection of projects, code, and resources that demonstrate my skills and progress in the field. 
 
 # About
-
+I am a data enthusiast, interested in anything and everything that involves dealing with numbers and calculation. I also like to create interactive dadhboards to visualize data on my free time. 
 
 # Table of Contents
 1. SQL
@@ -51,6 +51,7 @@ In this project, I utilized excel power query for data cleaning and transformati
   [Check out other projects!](https://github.com/Collins-Akagha/Technical-Projects/releases/tag/Excel)
 
 3. **Python**
+
    • [Largest Companies in United States by Revenue Webscraping Project]()
 
 
@@ -59,22 +60,25 @@ In this project, I utilized excel power query for data cleaning and transformati
    • [Hockey Data Webscraping Project]()
 
 
-4. **Tableau**
-   • [Video Game Sales Visualization]()
+5. **Tableau**
+
+    • [Video Game Sales Visualization]()
    
    • [Customer Sales Visualization]()
 
    • [Cafe Data Visualization]()
 
 
-6. **Microsoft PowerBI**
+7. **Microsoft PowerBI**
+
    • [Superstore sales/profit Visualization]()
 
    • [Anime Data Visualization]
 
    
 
-7. **Certificates**
+ #  Certificates
+  
    • [Tech4Dev Data Analysis Certificate]()
 
    • [Microsoft Excel & Statistics Certificate]()
@@ -83,12 +87,15 @@ In this project, I utilized excel power query for data cleaning and transformati
 
 
 
-8. **Contact Me**
-   Reach out to me through mail or phone
+# Contact Me!
+  
+Reach out to me through mail or phone
    ✉️: akagha.collins@icloud.com
        collinsakagha22@gmail.com
    
    ☎️: +2348156387714
+
+   
 
    
 
