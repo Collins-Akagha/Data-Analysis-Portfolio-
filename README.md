@@ -32,7 +32,8 @@ Welcome to my Data Analytics and Data Science repository. This is a collection o
   • [World Bank International Debt EDA Project](https://github.com/Collins-Akagha/Technical-Projects/blob/28357bfab10e381c3f3baa24abbf11d34d3f67ff/World%20bank%20International%20debt%20data%20exploration.sql)
 	
   • [Covid Data Exploration Project](https://github.com/Collins-Akagha/Technical-Projects/blob/28357bfab10e381c3f3baa24abbf11d34d3f67ff/SQL%20Covid%20Data%20Exploration%20Project.sql)
-  In this project, I explored and cleaned over 100,000 rows of data using varoius window and aggregate SQL functions to standardize the dataset for further analyses and visualizations. 
+
+In this project, I explored and cleaned over 100,000 rows of data using varoius window and aggregate SQL functions to standardize the dataset for further analyses and visualizations. 
 
 2. **Microsoft Excel**
 
@@ -44,10 +45,52 @@ Welcome to my Data Analytics and Data Science repository. This is a collection o
   • [Bike Sales Analysis](https://github.com/user-attachments/files/17007879/Excel.Portfolio.Project.xlsx)
 
   • [Data Professional Survey Analysis](https://github.com/Collins-Akagha/Technical-Projects/blob/826f3a05d869c9374e673919cf597711a527bbb8/Data%20Survey%20Analysis.xlsx) 
-  In this project, I utilized excel power query for data cleaning and transformation and implemented pivot tables and charts for professional reporting. 
+
+In this project, I utilized excel power query for data cleaning and transformation and implemented pivot tables and charts for professional reporting. 
 
   [Check out other projects!](https://github.com/Collins-Akagha/Technical-Projects/releases/tag/Excel)
 
+3. **Python**
+   • [Largest Companies in United States by Revenue Webscraping Project]()
+
+
+   • [Customer Call List Data Cleaning Project]()
+
+   • [Hockey Data Webscraping Project]()
+
+
+4. **Tableau**
+   • [Video Game Sales Visualization]()
+   
+   • [Customer Sales Visualization]()
+
+   • [Cafe Data Visualization]()
+
+
+6. **Microsoft PowerBI**
+   • [Superstore sales/profit Visualization]()
+
+   • [Anime Data Visualization]
+
+   
+
+7. **Certificates**
+   • [Tech4Dev Data Analysis Certificate]()
+
+   • [Microsoft Excel & Statistics Certificate]()
+
+   • [Python for Data Analysis Cerificate]()
+
+
+
+8. **Contact Me**
+   Reach out to me through mail or phone
+   ✉️: akagha.collins@icloud.com
+       collinsakagha22@gmail.com
+   
+   ☎️: +2348156387714
+
+   
 
 
  
