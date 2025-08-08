@@ -80,10 +80,15 @@ In this project, I utilized excel power query for data cleaning and transformati
  #  Certificates
   
    • [Tech4Dev Data Analysis Certificate]()
+<img width="1125" height="785" alt="Open Data Analysis Certification" src="https://github.com/user-attachments/assets/aed286f7-b1b1-4204-8cce-3a60860ea609" />
 
-   • [Microsoft Excel & Statistics Certificate]()
+   • [Microsoft Excel & Statistics Certificate](ude.my/UC-23089d84-eb75-46f0-8851-286a841fOdc)
+   <img width="1125" height="810" alt="Open folder DSC Project flat files 2" src="https://github.com/user-attachments/assets/957ca406-5c60-4514-84da-bd20a404d9cd" />
 
-   • [Python for Data Analysis Cerificate]()
+
+   • [Python for Data Analysis Cerificate](ude.my/UC-dOc5daff-a409-4d0d-983c-2065a14a952c)
+   <img width="1125" height="817" alt="Open folder DSC Project flat files" src="https://github.com/user-attachments/assets/2673a351-4552-4a87-9bb7-e08e097b5506" />
+
 
 
 
