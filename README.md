@@ -52,7 +52,7 @@ In this project, I utilized excel power query for data cleaning and transformati
 
 3. **Python**
 
-   • [Largest Companies in United States by Revenue Webscraping Project]()
+   • [Largest Companies in United States by Revenue Webscraping Project](https://github.com/Collins-Akagha/Technical-Projects/blob/8844ae7ea77799fc1c6b0236e77257bd1c4b2f2f/Wikipedia%20Scraping%20Project.ipynb)
 
 
    • [Customer Call List Data Cleaning Project](https://github.com/Collins-Akagha/Technical-Projects/blob/8844ae7ea77799fc1c6b0236e77257bd1c4b2f2f/Data%20Cleaning.ipynb)
