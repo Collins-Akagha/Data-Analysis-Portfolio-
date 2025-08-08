@@ -94,9 +94,13 @@ In this project, I utilized excel power query for data cleaning and transformati
 
 # Contact Me!
   
-Reach out to me through mail or phone
+Reach out to me through mail or phone or through connect with me on linkedIn!
    ✉️: akagha.collins@icloud.com
        collinsakagha22@gmail.com
+
+	
+   👤: [Collins Akagha](http://linkedin.com/in/collins-akagha-10846b327
+)
    
    ☎️: +2348156387714
 
